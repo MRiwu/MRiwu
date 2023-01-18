@@ -1,6 +1,6 @@
 ### Hi there 👋 This is MRiwu
 
-* 🔭 I’m currently working on **DevOps, CI/CD, Observability and Data Engineering**, 
+* 🔭 I’m currently working on **DevOps, CI/CD, Observability,AI and Data Engineering**, 
 * 🌱 I’m currently learning **Agile and SRE**.
 * ✍️ Check out my [Twitter](https://twitter.com/MRiwu_illus) for more fun posts
 * 📫 How to reach me: kushikiha590@gmail.com
