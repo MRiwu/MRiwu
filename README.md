@@ -17,10 +17,7 @@
 
 ### Stats
 
-
-
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRiwu&show_icons=true&theme=tokyonight)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRiwu&show_icons=true&theme=transparent)
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=MRiwu&theme=nord&no-frame=true&row=1&column=6" />
