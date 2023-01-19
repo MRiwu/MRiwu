@@ -1,5 +1,12 @@
 ### Hi there 👋 This is MRiwu
 
+<p>
+<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<a href="https://github.com/MRiwu"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+</p>
+
+
+
 * 🔭 I’m currently working on **DevOps, CI/CD, Observability,AI and Data Engineering**, 
 * 🌱 I’m currently learning **Agile and SRE**.
 * ✍️ Check out my [Twitter](https://twitter.com/MRiwu_illus) for more fun posts
@@ -8,15 +15,6 @@
 
 ### Stats
 
-https://badgen.net/badge/:subject/:status/:color?icon=github
-                   ──┬──  ───┬───  ──┬───  ──┬── ────┬──────
-                     │       │       │       │       └─ Options (label, list, icon, color)
-                     │       │       │       │
-                     │      TEXT    TEXT    RGB / COLOR_NAME ( optional )
-                     │
-                  "badge" - default (static) badge generator
-                  
-eg: https://badgen.net/badge/Swift/4.2/orange
 
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRiwu&show_icons=true&theme=tokyonight)
