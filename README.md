@@ -16,6 +16,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=androchentw&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=androchentw&theme=solarized_dark&utcOffset=8)
 
+![Metrics](https://raw.githubusercontent.com/acheong08/acheong08/main/github-metrics.svg)
+
 
 ```text
 Other   
