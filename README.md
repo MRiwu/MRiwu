@@ -25,8 +25,12 @@
 
 
 
-### 📊 Weekly development breakdown
-```text
-Other   
+#### 📊 Weekly development breakdown
 
-57 hrs 22 mins  ████████████████████████ 97.82 %
+[wakatime](https://wakatime.com/dashboard)
+
+<!--START_SECTION:waka-->
+
+```text
+Other   66 hrs 36 mins  █████████████████████████   100.00 %
+```
