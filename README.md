@@ -8,6 +8,17 @@
 
 ### Stats
 
+https://badgen.net/badge/:subject/:status/:color?icon=github
+                   ──┬──  ───┬───  ──┬───  ──┬── ────┬──────
+                     │       │       │       │       └─ Options (label, list, icon, color)
+                     │       │       │       │
+                     │      TEXT    TEXT    RGB / COLOR_NAME ( optional )
+                     │
+                  "badge" - default (static) badge generator
+                  
+eg: https://badgen.net/badge/Swift/4.2/orange
+
+
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRiwu&show_icons=true&theme=tokyonight)
 
 
