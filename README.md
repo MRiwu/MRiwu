@@ -30,7 +30,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRiwu&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRiwu&theme=solarized_dark&utcOffset=8)
 
+### Moe Counter
 
+![u3u](https://count.getloli.com/get/@MRiwu?theme=rule34)
 
 #### 📊 Weekly development breakdown
 
