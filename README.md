@@ -9,10 +9,10 @@
 
 
 
-* 🔭 I’m currently working on **DevOps, CI/CD, Observability,AI and Data Engineering**, 
+* 🔭 I’m currently working on **Particle Physics, Quantum Computing, AI and Data Engineering**, 
 * 🌱 I’m currently learning **Agile and SRE**.
-* ✍️ Check out my [Twitter](https://twitter.com/MRiwu_illus) for more fun posts
-* 📫 How to reach me: mriwu_u@alumni.stanford.edu
+* ✍️ Check out my [Twitter](https://x.com/MRiwu_u) for more fun posts
+* 📫 How to reach me: bwlum@stanford.edu
 * ⚡ Fun fact: 🚀 **Practical idealist**
 
 ### Stats
