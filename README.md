@@ -1,4 +1,4 @@
-### Hi there 👋 This is MRiwu
+### Hi there 👋 This is Lum
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
